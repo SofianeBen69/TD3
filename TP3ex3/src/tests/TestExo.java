@@ -2,10 +2,10 @@
  
 package tests;
 
-import geometry.zeroDim.Triangle2D;
-import geometry.zeroDim.Rectangle2D;
-import geometry.twoDim.Segment2D;
-import geometry.oneDim.Point2D;
+import geometry.oneDim.Segment2D;
+import geometry.twoDim.Rectangle2D;
+import geometry.twoDim.Triangle2D;
+import geometry.zeroDim.Point2D;
 
 
 

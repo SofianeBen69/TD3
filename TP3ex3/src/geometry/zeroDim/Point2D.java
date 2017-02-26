@@ -1,5 +1,5 @@
 
-package geometry.oneDim;
+package geometry.zeroDim;
 
 import static java.lang.Math.atan2;
 

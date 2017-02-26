@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package geometry.zeroDim;
+package geometry.twoDim;
 
-import geometry.oneDim.Point2D;
+import geometry.zeroDim.Point2D;
 
 
 public class Rectangle2DBis {
