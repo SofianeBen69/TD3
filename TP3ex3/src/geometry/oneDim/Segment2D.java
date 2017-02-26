@@ -1,7 +1,7 @@
 
-package geometry.twoDim;
+package geometry.oneDim;
 
-import geometry.oneDim.Point2D;
+import geometry.zeroDim.Point2D;
 
 
 public class Segment2D {
